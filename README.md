@@ -50,7 +50,7 @@ This application allows the user to find available COVID Testing Sites near thei
 
 ## Website Images
 
-<img src="./assets/Screen Shot 2020-10-30 at 7.40.36 PM.png">
+<img src="./assets/img/Screen Shot 2020-10-30 at 7.40.36 PM.png">
 <hr>
-<img src="./assets/Screen Shot 2020-10-30 at 7.41.00 PM.png">
-<img src="./assets/Screen Shot 2020-10-30 at 7.42.01 PM.png">
+<img src="./assets/img/Screen Shot 2020-10-30 at 7.41.00 PM.png">
+<img src="./assets/img/Screen Shot 2020-10-30 at 7.42.01 PM.png">
