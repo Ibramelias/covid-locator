@@ -117,7 +117,7 @@ $(document).ready(function () {
             var stringLatLng = userLat + "," + userLng;
             //console.log(stringLatLng);
 
-            var queryURL = "https://discover.search.hereapi.com/v1/discover?apikey=HwBOddp2-8jNUncGQl7uOxplh5Pw_EeGf0BmppjvlpE&q=Covid&at=" + stringLatLng + "&limit=10";
+            var queryURL = "https://discover.search.hereapi.com/v1/discover?apikey=_l0w3uVOW6h4Pheli-r-_e66KQd-UMsDBmbHWfxiCG0" + stringLatLng + "&limit=10";
 
             //HERE Developer API ajax call.
             $.ajax({
